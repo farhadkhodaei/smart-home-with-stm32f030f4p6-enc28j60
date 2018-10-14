@@ -4,7 +4,7 @@
 
 Dear reader, Hi
 
-This is a project for turning an LED (connected to PA4 GPIO pin of stm32f030f4p6 microcontroller) on or off by using ethernet or wifi connection. This operation can be done by a web browser run on a smartphone or a pc, connected to the ENC28J60 (that is interfaced with the used stm32f030 microcontroller) directly or by a wifi modem/router. You can find all things by loading the web page implemented by the microcontroller. Then you can open the Keil 4 project or STM32CubeMX project and view the source code. In the folder of important files there is a STM32CubeMX project file that should be regenerated to have the remaining files and "Drivers" folder. Also the complete project with all files can be found inside the rar file. The hardware should be implemented as follows: (see also http://farhadstore.ir)
+This is a project for turning an LED (connected to PA4 GPIO pin of stm32f030f4p6 microcontroller) on or off by using ethernet or wifi connection. This operation can be done by a web browser run on a smartphone or a pc, connected to the ENC28J60 (that is interfaced with the used stm32f030 microcontroller) directly or by a wifi modem/router. You can find all things by loading the web page implemented by the microcontroller. Then you can open the Keil 4 project or STM32CubeMX project and view the source code. In the folder of important files there is a STM32CubeMX project file that should be regenerated to have the remaining files and "Drivers" folder. The hardware should be implemented as follows: (see also http://farhadstore.ir)
 
 PA4: the LED pin that is being on/off (on by making it low)
 
